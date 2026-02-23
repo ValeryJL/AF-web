@@ -22,7 +22,7 @@ We replaced bulky WordPress gallery plugins with a custom-built, zero-dependency
 
 ## 🌐 Live Site
 The website is hosted at:
-[https://afconstruccionesyservicios.com.ar](https://afconstruccionesyservicios.com.ar)
+[https://valeryjl.github.io/AF-web/](https://valeryjl.github.io/AF-web/)
 
 ---
 *By simplifying the tech stack, we achieved a secure, fast, and cost-effective web presence.*
